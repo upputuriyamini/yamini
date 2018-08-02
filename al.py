@@ -1,4 +1,4 @@
-al = int(raw_input())
+al=int(input())
 if al == 0:
        exit();
 else:
