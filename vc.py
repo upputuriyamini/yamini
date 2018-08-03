@@ -1,8 +1,8 @@
 la=input()
 if la>='a' and la<='z':
            if la in ('a', 'e', 'i', 'o', 'u'):
-                     print("vowel")
+                     print("Vowel")
            else:
-                     print("consonant")
+                     print("Consonant")
 else:
            print("invalid")
