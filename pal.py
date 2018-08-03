@@ -6,8 +6,8 @@ while(n>0):
         rev=rev*10+dig
         n=n/10
 if(temp==rev):
-        print(palindrome)
+        print(yes if its a palindrome)
 else:
-        print(not palindrome)
+        print( if its not)
         
         
