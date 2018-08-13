@@ -5,13 +5,13 @@ i=2
 if r<= 0:
        print("positive number")
 elif r== 1:
-       print n1
+       print n1,
 else:
-       print n1
-       print n2
+       print n1,
+       print n2,
        while i<r:
               n3=n1+n2
-              print n3
+              print n3,
               n1=n2
               n2=n3
               i=i+1
