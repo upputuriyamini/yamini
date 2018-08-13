@@ -1,7 +1,7 @@
 def isPowerOfTwo (x):
   return (x and (not(x & (x - 1))) )
-n=int(input())
-if(isPowerOfTwo(n)):
+N=int(input())
+if(isPowerOfTwo(N)):
     print("Yes")
 else:
     print("no")
