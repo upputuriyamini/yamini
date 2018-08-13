@@ -4,4 +4,4 @@ n=int(input())
 if(isPowerOfTwo(n)):
     print("Yes")
 else:
-    print("No")
+    print("no")
