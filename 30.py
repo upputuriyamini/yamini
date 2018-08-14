@@ -5,4 +5,4 @@ l2=(h2*60)+m2
 tmin = abs(l1-l2)
 m=tmin%60
 hrs=(tmin-m)//60
-print (hrs,m)
+print hrs,m
