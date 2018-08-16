@@ -1,4 +1,4 @@
-s=raw-input()
+s=raw_input()
 word=1
 for i in s:
        if(i=='.'):
