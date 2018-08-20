@@ -1,3 +1,3 @@
-c=raw_input()
-f=c+273
+celsius=raw_input()
+f = (celsius+273)
 print (f)
