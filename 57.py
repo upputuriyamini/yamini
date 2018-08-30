@@ -4,4 +4,4 @@ if k in list:
            c=list.count(k)
            print (c)
 else:
-           print (c)
+           print (0)
