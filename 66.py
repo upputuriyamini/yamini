@@ -1,4 +1,4 @@
-num=raw_inpt()
+num=raw_input()
 if num>1:
        for i in range (2,num):
              if num%i==0:
